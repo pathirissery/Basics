@@ -1,8 +1,7 @@
-# Basics
-#H1 Programming Cheat Sheets
+# Programming Cheat Sheets
 
-#H2 Git
-#H3 Basics
+## Git
+### Basics
 - **init**
 - **add**: -a -p
 - **commit**
@@ -11,20 +10,20 @@
 - **log** -p
 - **diff** --staged
 
-#H3 Revert
+### Revert
 
 - **checkout**
 - **reset**(hard to understand; read documentation)
 - **commit** -ammend
 -**revert**
 
-#H3 Branches
+### Branches
 
 - **branch** -d <name>
 - **checkout** -b <branch>
 - **log** -online -graph
 
-#H3 GitHub
+### GitHub
   
 - **clone**
 - **pull**
